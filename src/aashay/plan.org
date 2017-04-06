@@ -2,7 +2,7 @@
 #+DATE: [2017-04-06 Thu]
 #+PROPERTY: results output
 #+PROPERTY: exports code
-#+SETUPFILE: ./org-templates/level-0.org
+#+SETUPFILE: ../org-templates/level-1.org
 #+options: ^:nil
 #+LATEX: Literal LaTeX code for export
 
@@ -15,6 +15,11 @@
   no idea on them.
 
 * Plan  
+  This includes the tasks and reposibilitites handled by me and
+  proposed name of engineers who must attend the KT session.  Related
+  documentation link is mentioned and updates as per the requirements
+  will be made.
+
 ** Open edX Theming 
 *** Description of Task
    + Theming of Virtual Labs Open edX Platform -                     
@@ -62,3 +67,34 @@
 
   
   
+** Redirection Effort 
+*** Description of Task 
+    + Point of Contact for https://vlabs.ac.in landing page.
+    + Interact with IIT Delhi team to collect the issues raised and
+      address them with the help of appropriate team.
+    + Revert back with answers to issues raised.
+    + Redirection effort is yet to start.
+    
+*** To be handed over to 
+    + Can't decide
+*** Documentation / Repository Link 
+    Following milestones in [[https://github.com/openedx-vlead/vlabs-edx-bootstrap-theme][Virtual Labs theme repository]] track the
+    progress -
+    + [[https://github.com/openedx-vlead/vlabs-edx-bootstrap-theme/milestone/4][Milestone 4]]
+    + [[https://github.com/openedx-vlead/vlabs-edx-bootstrap-theme/milestone/5][Milestone 5]]
+** Gmail IDs and groups
+*** Description of Task 
+    + Management Gmail IDs (like IOCs, POCs etc) and google groups.
+    + Management of Google forms and permissions.
+*** To be handed over to 
+    + Raghupathi
+*** Documentation / Repository Link 
+    + Nil 
+** Man support@vlabs.ac.in
+*** Description of Task 
+    + Check emails on support@vlabs.ac.in. This task was lead by Ravi
+      Kiran and was supported by Ashay.
+*** To be handed over to 
+    + Ravi Kiran
+*** Documentation / Repository Link 
+    + Nil
