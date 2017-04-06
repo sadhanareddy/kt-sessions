@@ -1,0 +1,42 @@
+x#+TITLE: Plan : KT sessions by Ashay Maheshwari
+#+DATE: [2017-04-06 Thu]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+SETUPFILE: ./org-templates/level-0.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+
+* Introduction
+  This document lists the plan, probable/required topic KT session,
+  responsibilitites, and expected person to take over the certain
+  task.  KT session will only target on certain tasks which were
+  completely handled by the individual and hence other have partial or
+  no idea on them.
+
+* Plan 
+  
+  |------+-----------------------+------------------------------------------------------------------+-------------------------+------------------------------|
+  | S.No | Tasks and             | Description of task                                              | To be handed            | Document/Repository links    |
+  |      | Responsibilities      |                                                                  | over to                 |                              |
+  |------+-----------------------+------------------------------------------------------------------+-------------------------+------------------------------|
+  |   1. | Open edX Theming      | Theming of Virtual Labs Open edX Platform -                      | Siva/Sripathi/          | - [[https://github.com/openedx-vlead/vlabs-edx-bootstrap-theme][Github repo]]                |
+  |      |                       | - Make changes in the dynamic part of the Open edX theme code.   | Raghupathi              |                              |
+  |      |                       | - Help Balamma to make changes in custom pages in case requried. |                         |                              |
+  |      |                       | - Compilation of Virtual Labs Open edX Theme.                    |                         |                              |
+  |      |                       | - Release Management of Virtual Labs Open edX Theme.             |                         |                              |
+  |      |                       | - Update VLEAD Internal Calendar for releases.                   |                         |                              |
+  |------+-----------------------+------------------------------------------------------------------+-------------------------+------------------------------|
+  |   2. | Open edX server       | Managing Open edX server. Most of the tasks are already taken    | Siva/Raghupathi         | - [[https://github.com/openedx-vlead/port-labs-to-openedx][Github repo]]                |
+  |      | management            | care by Siva. In case there is something this can be bought up   |                         |                              |
+  |------+-----------------------+------------------------------------------------------------------+-------------------------+------------------------------|
+  |   3. | Open edX Analytics    | Analytics includes the following -                               | Siva/Sripathi/          | - [[https://github.com/openedx-vlead/elk-stack-for-analytics][VLABS Elasticsearch repo]]   |
+  |      |                       | - Javascript snippet to POST logs to Analytics-API server        | Mrudvika/               | - [[https://github.com/openedx-vlead/vlabs-analytics-api-server][VLABS analytics API Server]] |
+  |      |                       | - Analytics-API server to POST logs to elasticsearch server      |                         |                              |
+  |      |                       | - Handling elasticsearch server                                  |                         |                              |
+  |      |                       | - Drawing graphs on Kibana Dashboards                            |                         |                              |
+  |------+-----------------------+------------------------------------------------------------------+-------------------------+------------------------------|
+  |   4. | College Cloud Theming | Theming of Virtual Labs College Cloud Edition                    | Siva/Balamma/Raghupathi | - [[https://github.com/openedx-vlead/vlabs-theme-for-college-cloud][Github repo for CC theme]]   |
+  |------+-----------------------+------------------------------------------------------------------+-------------------------+------------------------------|
+
+  
