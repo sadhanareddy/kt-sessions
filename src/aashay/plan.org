@@ -64,8 +64,6 @@
     + Siva/Balamma/Raghupathi
 *** Documentation / Repository Link 
     + [[https://github.com/openedx-vlead/vlabs-theme-for-college-cloud][Github repo for CC theme]]   
-
-  
   
 ** Redirection Effort 
 *** Description of Task 
@@ -98,3 +96,16 @@
     + Ravi Kiran
 *** Documentation / Repository Link 
     + Nil
+** Backup of Virtual Labs Open edX AMI
+*** Description of Task   
+    + Create an AMI of Virtual Labs Open edX server
+      (https://vlabs.ac.in) every month.
+    + Check if the AMI works by launching a test machine out of it.
+    + Destory the machine if AMI is found to be working. Else create a
+      new AMI.
+    + Clear AMIs older than 2 versions.
+ 
+*** To be handed over to 
+    + Siva/Raghupathi
+*** Documentation / Repository Link 
+    + Nil 
