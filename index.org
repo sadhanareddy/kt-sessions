@@ -1,0 +1,47 @@
+#+TITLE: Virtual Labs College Cloud Edition
+#+DATE: [2016-09-14 Wed]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+SETUPFILE: ./org-templates/level-0.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+
+* Introduction
+  The document describes building a *College Cloud Edition* for
+  virtual-labs.
+
+  Virtual Labs College Cloud Edition is the Portable-Edition for
+  Virtual Labs. It offers the offline version of Virtual labs,
+  experiments and theoretical content. This edition addresses the lack
+  of internet access or poor internet connectivity across different
+  institutes/colleges. It results in a very cost-effective Learning
+  Management System.
+
+** Objective 
+   Build the Portable-Edition on HDD and make it portable. The
+   portable media can be used for accessing the labs from local
+   machine (no need of internet connection).
+* Requirements
+  [[./requirements/index.org][Requirements]]
+* Design
+  [[./design/index.org][Design diagrams of college cloud]]
+* Implementation 
+  [[./runtime/implementation/index.org][Implementation]]
+* List of labs hosted on cluster and on Open edX platform 
+  - [[./labs-on-college-cloud/list-of-labs-in-college-cloud.org#list-of-labs][Labs on College Cloud]]
+  - Google spreadsheet of
+    [[https://docs.google.com/spreadsheets/d/10oarpSmBUYbd0szQU3q0KWO77IF58tSPFkq2e7JE0Mw/edit#gid%3D0][List of labs hosted on cluster and on Open edX platform]]
+  
+* Installation manual 
+  [[./installation-manual.org][Installation Manual]]
+* Steps for Cloning College Cloud Edition
+  [[./clone][Steps to clone College Cloud Edition]]
+* Proposed and changed designed plans
+  [[https://github.com/openedx-vlead/portable-media/blob/master/src/meeting-minutes.org#proposed-and-changed-designed-plans][Design plans]]
+* SyncThing 
+  [[./syncthing][SyncThing]]
+* GitHub Issues
+  - [[https://github.com/openedx-vlead/portable-media/issues/1][Cluster and Open edX Platform setup]]
+  - [[https://github.com/openedx-vlead/portable-media/issues/2][Analytics for the College Cloud]]
+

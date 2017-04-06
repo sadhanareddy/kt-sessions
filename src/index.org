@@ -1,0 +1,22 @@
+#+TITLE: KT sessions by VLEAD Employees
+#+DATE: [2017-04-06 Thu]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+SETUPFILE: ./org-templates/level-0.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+
+* Introduction
+  This document tracks the =Knowledge Transfer= sessions given by
+  VLEAD employees.
+
+* Instructions 
+  + Evey session delivered, whose knowledge can be shared publicly can
+    sit in this repository.
+  + For other private information, point the link of
+    repostiory/document in redmine or bitbucket.
+  
+
+
+
