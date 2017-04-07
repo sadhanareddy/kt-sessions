@@ -109,3 +109,12 @@
     + Siva/Raghupathi
 *** Documentation / Repository Link 
     + Nil 
+** Contact point for College Cloud Queries
+*** Description of Task   
+    + Address calls for College Cloud related queries 
+    + Queries can be technical issues, document locations 
+        
+*** To be handed over to 
+    + Siva/Raghupathi
+*** Documentation 
+    + Nil 
