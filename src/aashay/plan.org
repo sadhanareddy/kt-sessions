@@ -11,7 +11,7 @@
   This document lists the plan, probable/required topic KT session,
   responsibilitites, and expected person to take over the certain
   task.  KT session will only target on certain tasks which were
-  completely handled by the individual and hence other have partial or
+  completely handled by the individual and others have partial or
   no idea on them.
 
 * Plan  
@@ -28,9 +28,11 @@
      - Compilation of Virtual Labs Open edX Theme.                   
      - Release Management of Virtual Labs Open edX Theme.            
      - Update VLEAD Internal Calendar for releases.                  
-   
+       
 *** To be handed over to 
-    + Siva/Sripathi/Raghupathi
+    + Siva/Raghupathi to compile theme
+    + Sripathi/Mrudvika to make changes in dynamic code of theme if
+      required.
 *** Documentation / Repository link
     + [[https://github.com/openedx-vlead/vlabs-edx-bootstrap-theme][Github repo]]  
 
@@ -52,7 +54,8 @@
      + Handling elasticsearch server                             
      + Drawing graphs on Kibana Dashboards                       
 *** To be handed over to                                                                
-    + Siva/Sripathi/Mrudvika
+    + Siva/Raghupathi for analytics server information
+    + Sripathi/Mrudvika to maintain analytics API 
 *** Documentation / Repository Link  
     + [[https://github.com/openedx-vlead/elk-stack-for-analytics][VLABS Elasticsearch repo]]   
     + [[https://github.com/openedx-vlead/vlabs-analytics-api-server][VLABS analytics API Server]] 
@@ -61,10 +64,11 @@
 *** Description of Task      
     + Theming of Virtual Labs College Cloud Edition
 *** To be handed over to 
-    + Siva/Balamma/Raghupathi
+    + Siva/Raghupathi to compile theme
+    
 *** Documentation / Repository Link 
     + [[https://github.com/openedx-vlead/vlabs-theme-for-college-cloud][Github repo for CC theme]]   
-  
+      
 ** Redirection Effort 
 *** Description of Task 
     + Point of Contact for https://vlabs.ac.in landing page.
@@ -74,7 +78,8 @@
     + Redirection effort is yet to start.
     
 *** To be handed over to 
-    + Can't decide
+    + Since it is not started, Siva is the right person to handle
+      under consultant.
 *** Documentation / Repository Link 
     Following milestones in [[https://github.com/openedx-vlead/vlabs-edx-bootstrap-theme][Virtual Labs theme repository]] track the
     progress -
@@ -85,7 +90,7 @@
     + Management Gmail IDs (like IOCs, POCs etc) and google groups.
     + Management of Google forms and permissions.
 *** To be handed over to 
-    + Raghupathi
+    + Ravi Kiran
 *** Documentation / Repository Link 
     + Nil 
 ** Man support@vlabs.ac.in
@@ -118,3 +123,16 @@
     + Siva/Raghupathi
 *** Documentation 
     + Nil 
+
+** Contact point for VLABS Landing page 
+*** Decsription of Task 
+    + IIT Delhi informs and discuss their issues on landing page with
+      VLEAD Engineer.  Calls are to be addressed and proper minutes if
+      required are to be made in case there were no emails exchanged.  
+    + Emails for the response are to be written and send after proper
+      reviews.
+*** To be handed over to 
+    + Mr. Ravi Shankar
+      
+*** Documentation 
+    + [[https://github.com/openedx-vlead/vlabs-edx-bootstrap-theme/milestone/5][Milestone]]
