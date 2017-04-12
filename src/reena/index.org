@@ -9,6 +9,6 @@
 
 * Introduction
   This document tracks the =Knowledge Transfer= sessions given by
-  Ashay Maheshwari
+  Reena Madamwar
 
 * Plan 
