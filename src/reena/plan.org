@@ -1,0 +1,77 @@
+#+TITLE: Plan : KT sessions by Reena Madamwar
+#+DATE: [2017-04-12 Wed]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+SETUPFILE: ../org-templates/level-1.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+
+* Introduction
+  This document lists the plan, probable/required topic KT session,
+  responsibilitites, and expected person to take over the certain
+  task.  KT session will only target on certain tasks which were
+  completely handled by the individual and others have partial or
+  no idea on them.
+
+* Plan  
+  This includes the tasks and reposibilitites handled by me and
+  proposed name of engineers who must attend the KT session.  Related
+  documentation link is mentioned and updates as per the requirements
+  will be made.
+
+** Creation of labspecs
+*** Description of Task
+   + Created id's for all labs and experiments for the  Phase-II DPR target
+     labs.
+   + Created remaining labspecs and validated existing labspecs for all 180 labs.
+
+*** To be handed over to
+    + Systems team and Development team
+
+*** Documentation / Repository link
+    + [[https://docs.google.com/spreadsheets/d/1ogceCoy7I0k-xEkf1w5QYMOG9x1pkJCE8HBJzUzeWgA/pubhtml][name-id-sheet]]
+
+** Porting of labs on OpenEdx
+*** Description of Task
+   + Ported labs on OpenEdx as per the given document.
+   + Tested the ported labs.
+       
+*** To be handed over to
+    + Systems team and Development team
+
+*** Documentation / Repository link
+    + [[https://docs.google.com/spreadsheets/d/1VKoCruqie9BcaM8ttGCfaIEsf8pra_1Cd-fz3sOsHtQ/pubhtml][List of labs for porting Hackathon]]
+
+** Documentation of LbD(learning-by-doing)
+*** Description of Task
+    + Created document for Lbd Project which includes courses and platform details.
+    
+*** To be handed over to 
+    + Balamma
+*** Documentation / Repository Link 
+    + [[https://github.com/BalammaBoya/lbd-documentation][github repository for Lbd Document]]
+** LDS (lab-data-service)
+*** Description of Task 
+    + Worked on the design of the data-model for LDS.
+    + Worked on the false test cases for persistence and  persistence-delegate
+      layer for all entities.
+    + Implemented hostinginfo, integrationstatus, name, email, developer
+      entities end-to-end across all the layers.
+    + Integrated hostinginfo, integrationstatus, developer, name, email
+      entities with lab and experiment entity.
+    + Validated and sanitised the existing labspecs and created the new
+      labspecs(both canonical ans non-canonical) for the LDS service.
+*** To be handed over to 
+    + Development team
+*** Documentation / Repository Link 
+    + [[https://github.com/vlead/lab-data-service/][Github repository of LDS]]
+    + [[http://github.com/vlead/lab-specifications/][Github repository of lab specifications]]
+** Frontend of LDS
+*** Description of Task 
+    + Footer as a service.
+    + Design of frontend.
+*** To be handed over to 
+    + Development team
+*** Documentation / Repository Link 
+    + [[https://github.com/vlead/footer-service][Github repository of footer-service]]
