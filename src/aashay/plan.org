@@ -147,3 +147,16 @@
       assign a right person to handle this issue.
 *** Documentation 
     This is to be done.
+** Information server of Virtual Labs - https://info.vlabs.ac.in
+*** Description of task 
+    To solve the problem of serving custom pages from 5959 port, this
+    idea of having a seperate server for Virtual Labs custom pages
+    came into picture. For more details, visit this [[https://github.com/openedx-vlead/vlabs-custom-info-pages/blob/master/src/index.org][link]].
+*** To be handed over to 
+    + Siva/Raghupathi to manage server
+    + Balamma to continue deployment of https://info.vlabs.ac.in
+*** Documentation 
+    + [[https://github.com/openedx-vlead/vlabs-custom-info-pages/blob/master/src/index.org][github repository]]
+    + [[https://github.com/openedx-vlead/vlabs-edx-bootstrap-theme/issues/176][issue]]
+
+
