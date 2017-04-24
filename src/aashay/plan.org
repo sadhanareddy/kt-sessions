@@ -136,3 +136,14 @@
       
 *** Documentation 
     + [[https://github.com/openedx-vlead/vlabs-edx-bootstrap-theme/milestone/5][Milestone]]
+** Contact point for IIT Roorkee to get labs on L5/L6
+*** Description of Task
+   There are 4 labs whose simulations are pointing to IIT Rookee
+   servers.  Virtual Labs team of IIT Roorkee is to be given proper
+   guidance to get the labs on L5/L6.
+   
+*** To be handed over to 
+    + Lalit was involved in complete discussion, hence he can lead and
+      assign a right person to handle this issue.
+*** Documentation 
+    This is to be done.
