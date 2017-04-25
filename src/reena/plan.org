@@ -51,6 +51,7 @@
     + Balamma
 *** Documentation / Repository Link 
     + [[https://github.com/BalammaBoya/lbd-documentation][github repository for Lbd Document]]
+
 ** LDS (lab-data-service)
 *** Description of Task 
     + Worked on the design of the data-model for LDS.
@@ -67,7 +68,8 @@
 *** Documentation / Repository Link 
     + [[https://github.com/vlead/lab-data-service/][Github repository of LDS]]
     + [[http://github.com/vlead/lab-specifications/][Github repository of lab specifications]]
-** Frontend of LDS
+
+** Frontend of vlabs Landing Page
 *** Description of Task 
     + Footer as a service.
     + Design of frontend.
