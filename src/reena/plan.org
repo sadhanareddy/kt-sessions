@@ -27,7 +27,7 @@
    + Created remaining labspecs and validated existing labspecs for all 180 labs.
 
 *** To be handed over to
-    + Systems team and Development team
+    + Development team
 
 *** Documentation / Repository link
     + [[https://docs.google.com/spreadsheets/d/1ogceCoy7I0k-xEkf1w5QYMOG9x1pkJCE8HBJzUzeWgA/pubhtml][name-id-sheet]]
@@ -38,7 +38,7 @@
    + Tested the ported labs.
        
 *** To be handed over to
-    + Systems team and Development team
+    + Development team
 
 *** Documentation / Repository link
     + [[https://docs.google.com/spreadsheets/d/1VKoCruqie9BcaM8ttGCfaIEsf8pra_1Cd-fz3sOsHtQ/pubhtml][List of labs for porting Hackathon]]
@@ -48,7 +48,7 @@
     + Created document for Lbd Project which includes courses and platform details.
     
 *** To be handed over to 
-    + Balamma
+    + Balamma/Shiva
 *** Documentation / Repository Link 
     + [[https://github.com/BalammaBoya/lbd-documentation][github repository for Lbd Document]]
 
