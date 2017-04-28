@@ -101,7 +101,7 @@
     + Ravi Kiran
 *** Documentation / Repository Link 
     + Nil
-** Backup of Virtual Labs Open edX AMI
+** Backup of Virtual Labs Open edX using AMI
 *** Description of Task   
     + Create an AMI of Virtual Labs Open edX server
       (https://vlabs.ac.in) every month.
@@ -113,7 +113,7 @@
 *** To be handed over to 
     + Siva/Raghupathi
 *** Documentation / Repository Link 
-    + Nil 
+    + [[https://github.com/openedx-vlead/port-labs-to-openedx/blob/master/src/open-edx-amis/index.org][Objectives and steps]] 
 ** Contact point for College Cloud Queries
 *** Description of Task   
     + Address calls for College Cloud related queries 
