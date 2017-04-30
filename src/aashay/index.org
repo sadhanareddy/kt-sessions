@@ -19,7 +19,7 @@
    + [[http://files.vlabs.ac.in/kt-session-videos/draw-a-pie-chart-in-kibana.mp4][Draw a pie chart in kibana]]
    + [[http://files.vlabs.ac.in/kt-session-videos/draw-area-graph-in-kibana.mp4][Draw an area graph in Kibana]]
    + [[http://files.vlabs.ac.in/kt-session-videos/create-a-dashboard-in-kibana.mp4][Draw a dashboard of visualization in Kibana]]
-
+   + [[http://files.vlabs.ac.in/kt-session-videos/what-we-have-in-production-kibana.mp4][What we have in our production kibana ?]]
 ** Open edX theme videos 
    + [[http://files.vlabs.ac.in/kt-session-videos/openedx-videos/compile-theme-in-openedx.mp4][Compile theme in Open edX]]
 
