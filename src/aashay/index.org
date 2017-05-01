@@ -166,7 +166,7 @@
 * KT Videos 
 ** ELK Videos 
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/intro-to-kibana.mp4][Introduction to Kibana]]
-   + Create an index in elasticsearch and then in view the same in kibana
+   + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/create-an-index-an-add-in-kibana-dashboard.mp4][Create an index in elasticsearch and then in view the same in kibana]]
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/draw-a-bar-graph-in-kibana.mp4][How to draw a bar graph in kibana ?]]
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/draw-a-pie-chart-in-kibana.mp4][How to draw a pie chart in kibana ?]]
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/draw-area-graph-in-kibana.mp4][How to draw an area graph in kibana ?]]
@@ -174,18 +174,19 @@
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/what-we-have-in-production-kibana.mp4][What do we have in production kibana ?]]
    + Search filter in kibana dashboard 
    + Backup of analytics in elasticsearch 
-   + Delete an index in elasticsearch    
+
 
 ** Open edX theme videos 
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/compile-theme-in-openedx.mp4][How to compile theme in Open edX ?]] 
    + Open edX Landing page (theme components)
    + How we are getting the usage data on https://vlabs.ac.in ?
    + Backing up VLABS Open edX AWS instance 
-   + Theming in College Cloud
+
    
 ** Open edX Analytics server 
-   + Introduction to analytics api server
-   + Introduction to various analytics APIs
+   + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/how-we-capture-analytics-from-openedx.mp4][How we capture analytics in Open edX]]
+   + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/introduction-to-analytics-api-server.mp4][Introduction to analytics api server]]
+
 
 
    
