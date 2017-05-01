@@ -16,10 +16,28 @@
     sit in this repository.
   + For other private information, point the link of
     repostiory/document in redmine or bitbucket.
-  
-
-
-
 
 * KT sessions
-  + [[./aashay/index.org][By Ashay Maheshwari]]
+  + [[./aashay/index.org][By Ashay Maheshwari]] 
+
+* Content server information 
+  KT sessions contains videos and desktop sessions captured and the
+  information on the instance which holds them is given below -
+  
+  |---------------+--------------------------------|
+  | CTID          | 16189                          |
+  |---------------+--------------------------------|
+  | Hosted on     | Base 2                         |
+  |---------------+--------------------------------|
+  | IP Address    | 10.4.15.104                    |
+  |---------------+--------------------------------|
+  | Domain name   | http://kt-sessions.vlabs.ac.in |
+  |---------------+--------------------------------|
+  | Web server    | Apache                         |
+  |---------------+--------------------------------|
+  | Accessibility | Within VLEAD                   |
+  |---------------+--------------------------------|
+ 
+  
+    
+  
