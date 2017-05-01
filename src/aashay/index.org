@@ -150,7 +150,7 @@
     + Lalit was involved in complete discussion, hence he can lead and
       assign a right person to handle this issue.
 *** Documentation 
-    This is to be done.
+    + Nil 
 ** Information server of Virtual Labs - https://info.vlabs.ac.in
 *** Description of task 
     To solve the problem of serving custom pages from 5959 port, this
@@ -163,10 +163,10 @@
     + [[https://github.com/openedx-vlead/vlabs-custom-info-pages/blob/master/src/index.org][github repository]]
     + [[https://github.com/openedx-vlead/vlabs-edx-bootstrap-theme/issues/176][issue]]
 
-
 * KT Videos 
 ** ELK Videos 
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/intro-to-kibana.mp4][Introduction to Kibana]]
+   + Create an index in elasticsearch and then in view the same in kibana
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/draw-a-bar-graph-in-kibana.mp4][How to draw a bar graph in kibana ?]]
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/draw-a-pie-chart-in-kibana.mp4][How to draw a pie chart in kibana ?]]
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/draw-area-graph-in-kibana.mp4][How to draw an area graph in kibana ?]]
@@ -174,8 +174,8 @@
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/what-we-have-in-production-kibana.mp4][What do we have in production kibana ?]]
    + Search filter in kibana dashboard 
    + Backup of analytics in elasticsearch 
-   + Create an index in elasticsearch 
-   
+   + Delete an index in elasticsearch    
+
 ** Open edX theme videos 
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/compile-theme-in-openedx.mp4][How to compile theme in Open edX ?]] 
    + Open edX Landing page (theme components)
@@ -186,6 +186,7 @@
 ** Open edX Analytics server 
    + Introduction to analytics api server
    + Introduction to various analytics APIs
+
 
    
 
