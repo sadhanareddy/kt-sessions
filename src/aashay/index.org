@@ -178,11 +178,9 @@
 
 ** Open edX theme videos 
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/compile-theme-in-openedx.mp4][How to compile theme in Open edX ?]] 
-   + Open edX Landing page (theme components)
-   + How we are getting the usage data on https://vlabs.ac.in ?
-   + Backing up VLABS Open edX AWS instance 
-
-   
+   + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/openedx-theme-page-theme-components.mp4][Open edX Landing page (theme components)]]
+   + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/how-we-are-getting-the-usage-count-on-vlabs.ac.in.mp4][How we are getting the usage data on https://vlabs.ac.in ?]]
+  
 ** Open edX Analytics server 
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/how-we-capture-analytics-from-openedx.mp4][How we capture analytics in Open edX]]
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/introduction-to-analytics-api-server.mp4][Introduction to analytics api server]]
