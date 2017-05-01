@@ -23,7 +23,6 @@
 
 * Tasks and Responsibilities
    
-
 ** Open edX Theming 
 *** Description of Task
    + Theming of Virtual Labs Open edX Platform -                     
@@ -39,7 +38,8 @@
       required.
 *** Documentation / Repository link
     + [[https://github.com/openedx-vlead/vlabs-edx-bootstrap-theme][Github repo]]  
-   
+    + [[https://github.com/openedx-vlead/vlabs-custom-info-pages/blob/master/src/design/index.org][Design documentation]]
+
 ** Open edX Server Management 
 *** Description of Task    
     + Managing Open edX Server
