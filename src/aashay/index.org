@@ -172,8 +172,8 @@
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/draw-area-graph-in-kibana.mp4][How to draw an area graph in kibana ?]]
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/create-a-dashboard-in-kibana.mp4][How to create a dashboard in kibana ?]]
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/what-we-have-in-production-kibana.mp4][What do we have in production kibana ?]]
-   + Search filter in kibana dashboard 
-   + Backup of analytics in elasticsearch 
+   + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/filter-records-on-value-in-kibana.mp4][Search filter in kibana dashboard]]
+   + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/backup-of-records-in-elasticseach-server.mp4][Backup of analytics in elasticsearch]]
 
 
 ** Open edX theme videos 
