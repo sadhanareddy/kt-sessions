@@ -40,16 +40,6 @@
     + [[https://github.com/openedx-vlead/vlabs-edx-bootstrap-theme][Github repo]]  
     + [[https://github.com/openedx-vlead/vlabs-custom-info-pages/blob/master/src/design/index.org][Design documentation]]
 
-** Open edX Server Management 
-*** Description of Task    
-    + Managing Open edX Server
-    + Most of the tasks are already taken care by Siva. In case there
-      is something this can be bought up in discussion.
-*** To be handed over to 
-    + Siva/Raghupathi 
-*** Documentation / Repository Link 
-    - [[https://github.com/openedx-vlead/port-labs-to-openedx][Github repo]] 
-
 ** Open edX Analytics            
 *** Description of task
     + Analytics includes the following -
@@ -175,7 +165,6 @@
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/filter-records-on-value-in-kibana.mp4][Search filter in kibana dashboard]]
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/backup-of-records-in-elasticseach-server.mp4][Backup of analytics in elasticsearch]]
 
-
 ** Open edX theme videos 
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/compile-theme-in-openedx.mp4][How to compile theme in Open edX ?]] 
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/openedx-theme-page-theme-components.mp4][Open edX Landing page (theme components)]]
@@ -186,10 +175,36 @@
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/introduction-to-analytics-api-server.mp4][Introduction to analytics api server]]
 
 
-
+* Engineers' Name and Kt videos recommended to them 
    
-
-
-
+  |------+------------------+-----------------+--------------------------------------------------------------|
+  | S.No | Team type        | Person's Name   | Recommended video list                                       |
+  |------+------------------+-----------------+--------------------------------------------------------------|
+  |   1. | Systems Team     | Siva/Raghupathi | + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/compile-theme-in-openedx.mp4][How to compile theme in Open edX ?]]                         |
+  |      |                  |                 | + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/openedx-theme-page-theme-components.mp4][Open edX Landing page (theme components)]]                   |
+  |      |                  |                 | + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/how-we-capture-analytics-from-openedx.mp4][How we capture analytics in Open edX]]                       |
+  |      |                  |                 | + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/introduction-to-analytics-api-server.mp4][Introduction to analytics api server]]                       |
+  |      |                  |                 | + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/how-we-are-getting-the-usage-count-on-vlabs.ac.in.mp4][How we are getting the usage data on https://vlabs.ac.in ?]] |
+  |      |                  |                 | + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/backup-of-records-in-elasticseach-server.mp4][Backup of analytics in elasticsearch]]                       |
+  |      |                  |                 | + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/what-we-have-in-production-kibana.mp4][What do we have in production kibana ?]]                     |
+  |------+------------------+-----------------+--------------------------------------------------------------|
+  |   2. | Development Team | Sripathi        | + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/how-we-capture-analytics-from-openedx.mp4][How we capture analytics in Open edX]]                       |
+  |      |                  |                 | + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/introduction-to-analytics-api-server.mp4][Introduction to analytics api server]]                       |
+  |      |                  |                 | + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/openedx-theme-page-theme-components.mp4][Open edX Landing page (theme components)]]                   |
+  |      |                  |                 | + [[http://kt-sessions.vlabs.ac.in/kt-videos/openedx/how-we-are-getting-the-usage-count-on-vlabs.ac.in.mp4][How we are getting the usage data on https://vlabs.ac.in ?]] |
+  |------+------------------+-----------------+--------------------------------------------------------------|
+  |   3. | Development Team | Mrudhvika       | All videos mentioned in the section [[ELK Videos]]               |
+  |------+------------------+-----------------+--------------------------------------------------------------|
+ 
+  
+  + Note ::
+    + Engineer mentioned in the list above can go through the
+      documentation to get details in written format.
+    + Tasks related to Kibana dashboard can be better informed by
+      videos than being written.
+    + Videos for tasks like manning support@vlabs.ac.in
+    + Tasks of being contact point cannot be delivered in video.
+    + Direct KTs are to be delivered for tasks which cannot be
+      captured in videos.
 
    
