@@ -154,6 +154,17 @@
     + [[https://github.com/openedx-vlead/vlabs-edx-bootstrap-theme/issues/176][issue]]
 
 * KT Videos 
+ + Note ::  
+   + Videos are in mp4 format and opensource tool named [[https://www.unixmen.com/vokoscreen-a-new-screencasting-tool-for-linux/][vokoscreen]] was
+     used to record desktop sessions.
+   + Videos will play in browsers which support mp4 format and HTML5. 
+   + Videos will play in Chrome without plugins, but might need
+     plugins to play in firefox.
+   + In case you face some error in opening videos in your browse
+     (error other that 404), you can download the video form [[http://kt-sessions.vlabs.ac.in/kt-videos/][here]] by
+     selecting the right category from the list. Just right click
+     video file and select =save as=.
+  
 ** ELK Videos 
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/intro-to-kibana.mp4][Introduction to Kibana]]
    + [[http://kt-sessions.vlabs.ac.in/kt-videos/elk/create-an-index-an-add-in-kibana-dashboard.mp4][Create an index in elasticsearch and then in view the same in kibana]]
