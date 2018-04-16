@@ -1,0 +1,42 @@
+#+TITLE: KT sessions by Sripathi Kammari
+#+DATE: [2018-04-11 Tue]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+SETUPFILE: ../org-templates/level-1.org
+#+options: ^:nil
+#+LATEX: Literal LaTeX code for export
+
+
+* Introduction
+  This document lists the plan, probable/required topic KT session,
+  responsibilities, and expected person to take over the certain
+  task.  KT session will only target on certain tasks which were
+  completely handled by the individual and others have partial or
+  no idea on them.
+
+* Plan
+  This includes the tasks and reposibilitites handled by me and
+  proposed name of engineers who must attend the KT session.  Related
+  documentation link is mentioned and updates as per the requirements
+  will be made.
+
+
+** Front-end implementation of Outreach Portal
+*** Description of task
+    - Implemented 
+*** To be handed over to
+*** Documentation/repository links
+    
+
+** Back-end data model and implementation of Outreach Portal
+
+** Deployment of Outreach Portal
+
+** Define data model to store virtual labs analytics data
+
+** Build REST API(s) to fetch vlabs analytics
+
+** Deployment of Analytics services
+   
+
+
