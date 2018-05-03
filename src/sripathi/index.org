@@ -39,6 +39,10 @@
     [[https://github.com/vlead/outreach-portal][Outreach Portal]]
 *** Enhancements and future works
     Following are the list of future works
+    1. [[https://github.com/vlead/outreach-portal/issues/262][Document reporting]]
+    2. [[https://github.com/vlead/outreach-portal/issues/252][File Uploads should limit the size of each file]]
+    3. [[https://github.com/vlead/outreach-portal/issues/271][Fix Google authentication on staging (base4) environments]]
+    
 ** ADS
 *** Desciption of task
 
@@ -54,7 +58,7 @@
 *** Documentation/repository links
     - [[https://github.com/vlead/ovpl.git][ADS]]
 *** Enhancements and future works
-
+    [[https://github.com/vlead/ovpl/issues/76][Implementation of web sockets]]
 ** Analytics Service
 
 *** Discription of task
@@ -75,7 +79,7 @@
    2. [[https://github.com/vlead/vlabs-analytics-service.git][Analytics-service]]
 
 *** Enhancements and future works
-    
+    [[https://github.com/vlead/vlabs-analytics-service/issues/48][Bug-fix]]
 
 ** Feedback Service
 *** Description of task
