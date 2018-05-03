@@ -8,11 +8,12 @@
 
 
 * Introduction
+
   This document lists the plan, probable/required topic KT session,
-  responsibilities, and expected person to take over the certain
-  task.  KT session will only target on certain tasks which were
-  completely handled by the individual and others have partial or
-  no idea on them.
+  responsibilities, and expected person to take over the certain task.
+  KT session will only target on certain tasks which were completely
+  handled by the individual and others have partial or no idea on
+  them.
 
 * Plan
   This includes the tasks and reposibilitites handled by me and
@@ -21,22 +22,71 @@
   will be made.
 
 
-** Front-end implementation of Outreach Portal
+** Outreach Portal
 *** Description of task
-    - Implemented 
+    
+    This task will brief the following items
+
+    1) Understanding of MVC AngularJS framework
+    2) Implementation of Views, Models and Controllers
+    3) Defining data models
+    4) Implementation of back end implementation
+
 *** To be handed over to
+    - Madhavi (Primary responsibility)
+    - Mrudhvika and Sanchita
 *** Documentation/repository links
+    [[https://github.com/vlead/outreach-portal][Outreach Portal]]
+*** Enhancements and future works
+    Following are the list of future works
+** ADS
+*** Desciption of task
+
+    This task will brief the following items
+    
+    1) Understanding the architecture of ADS service
+
+    2) Deploy and configure the ADS service on Testing, Staging and Production environments
+
+*** To be handed over to
+    - Raghupathi
+
+*** Documentation/repository links
+    - [[https://github.com/vlead/ovpl.git][ADS]]
+*** Enhancements and future works
+
+** Analytics Service
+
+*** Discription of task
+
+    This task will brief the following items
+
+    1) Data model
+
+    2) Implementation of RESTfull API(s)
+
+    3) Integration of other service like feedback, outreach and 
+
+*** To be handed over to
+    - Shiva and Raghupathi
+
+*** Documentation/repository links
+   1. [[https://github.com/vlead/analytics-db.git][Analytics-database-service]]
+   2. [[https://github.com/vlead/vlabs-analytics-service.git][Analytics-service]]
+
+*** Enhancements and future works
     
 
-** Back-end data model and implementation of Outreach Portal
-
-** Deployment of Outreach Portal
-
-** Define data model to store virtual labs analytics data
-
-** Build REST API(s) to fetch vlabs analytics
-
-** Deployment of Analytics services
+** Feedback Service
+*** Description of task
+    This task will brief the following items
+    1) Data Model
+    2) Implementation of RESTfull API(s)
+    3) Implementation of Front end feedback forms
    
+*** To be handed over to
+    - Balamma
 
-
+*** Documentation and repository links
+    [[https://github.com/vlead/feedback-portal.git][Feedback-service]]
+*** Enhancements and future works    
