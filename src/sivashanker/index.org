@@ -1,0 +1,88 @@
+#+Title: Systems KT
+#+Author: Siva Shanker
+
+* Introduction
+  This document tracks the =Knowledge Transfer= sessions
+  given by Siva Shanker Narimalla. It also lists the plan,
+  probable/required topic KT session, responsibilitites, and
+  expected person to take over the certain task. KT session
+  will only target on certain tasks which were completely
+  handled by the individual and others have partial or no
+  idea on them.
+
+* Plan 
+  This includes the tasks and reposibilitites handled by me and
+  proposed name of engineers who must attend the KT session. Related
+  documentation link is mentioned and updates as per the requirements
+  will be made.
+* Tasks and Responsibilities
+** Systems model
+*** Description of task
+    Systems model is a design model of VLEAD's hosting
+    infrastructure. It contains automation scripts to build
+    infrastructure.
+*** To be handed over to
+    + Thirumal
+    + Raghupathi
+*** Documentation/Repository links
+   - [[https://gitlab.com/vlead-systems/systems-model][systems-model]] after moving to GitLab from
+     BitBucket. Currently we are using this repository for
+     testing, staging and production environments.
+   - [[https://bitbucket.org/vlead/systems-model][systems-model]] before moving to GitLab from BitBucket. Now,We are not
+     using this repository.
+** Cluster Automation
+*** Description of task
+    This task is about how to build complete infrastructure
+    for hosting vlabs on local environments (
+    testing/staging) including bootstrapping steps using
+    automation scripts.
+*** To be handed over to
+    + Thirumal
+    + Raghupathi
+*** Documentation/Repository links
+    - [[https://gitlab.com/vlead-systems/cluster-automation][cluster-automation]] on GitLab, currently using.
+    - [[https://github.com/vlead/cluster-automation][cluster-automation]] before moving to GitLab from
+      GitHub.
+** Optimize AWS bill
+*** Description of task
+    Discussions and Plans of optimizing the AWS bill.
+*** To be handed over to
+    + Thirumal
+    + Raghupathi
+*** Documentation/Repository links
+    [[https://gitlab.com/vlead-systems/reduce-aws-bill][reduce-aws-bill]]
+** College Cloud
+*** Description of task
+    Offline version of Virtual Labs.
+*** To be handed over to
+    - Thirumal
+    - Raghupathi
+*** Documentation/Repository links
+    - [[https://gitlab.com/vlead-systems/college-cloud][College Cloud]] on GitLab
+    - [[https://github.com/openedx-vlead/college-cloud][College Cloud]] on GitHub. Old repository.
+** Baadal
+*** Description of tasks.
+    Setup VLEAD infrastructure for hosting vlabs on Baadal.
+*** To be handed over to 
+    + Thirumal
+    + Raghupathi
+*** Documentation/Repository links
+    - [[https://gitlab.com/vlead-systems/baadal][Baadal]]
+
+
+** Ernet
+   Ernet is our Domain provider. 
+** Namecheap.com
+   For SSL certificates.
+** Backup of AWS backups
+*** Description of task
+    On AWS, we have rsnapshot server to take backup of
+    important configuration/data files from various cluster
+    nodes and other vlead services such as outreach portal,
+    feedback,etc.
+*** To be handed over to
+    - Thirumal
+    - Raghupathi
+*** Documentation/Repository link
+    - [[https://gitlab.com/vlead-systems/docs/blob/master/src/backup-docs/backup-aws-rsnapshot.org][AWS backups on local server]]
+
