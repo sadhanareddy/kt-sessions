@@ -1,0 +1,30 @@
+#+Title: Systems KT
+#+Author: Siva Shanker
+
+* VLEAD's architecture diagram
+  Attendees: 
+
+    Systems Team : Raghupathi, Sranavthi Modepu 
+    Others : Sravanthi B, Balamma and Sadhana.
+** VLEAD's AWS infrastructure network diagram
+   - [[https://gitlab.com/vlead-systems/systems-model/blob/master/src/diagrams/overall-cluster-network-diagram.png][cluster-network-diagram]]
+   - Explained each server's responsibility in the cluster.
+   - Explained about purpose of 22,80,443 and 53 ports in the
+     cluster. 
+   
+     taken one example cse02-iiith.vlabs.ac.in domain and
+     explained its traversal.
+** Staging and testing Infrastructure network diagram
+   - [[https://gitlab.com/vlead-systems/college-cloud/blob/master/src/images/Portable-media-cluster-design.jpg][Network diagram]]
+   - Explained about the bridges
+   - Shown some network configuration files (
+     ex. eth0,eth1,br0,br1)
+* AWS services
+** EC2 service
+   Explained following things
+  - "How to create/launch an EC2 instance on AWS?".
+  -  My AMIs, AWS marketplace AMIs and Community AMIs.
+  - Snapshots
+  - EBS - Elastic Block Storage( Volumes )
+  - Security Groups
+    
