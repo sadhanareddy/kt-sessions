@@ -24,12 +24,18 @@
 *** To be handed over to
     + Thirumal
     + Raghupathi
+    + Anirudh
+    + Sravanthi M
 *** Documentation/Repository links
    - [[https://gitlab.com/vlead-systems/systems-model][systems-model]] after moving to GitLab from
      BitBucket. Currently we are using this repository for
      testing, staging and production environments.
    - [[https://bitbucket.org/vlead/systems-model][systems-model]] before moving to GitLab from BitBucket. Now,We are not
      using this repository.
+*** KTs
+    Please check these links for KT on systems-model
+    - [[./kt-2018-06-26.org][kt-seesion on 2018-06-26]]
+    - [[./kt-2018-07-02.org][kt session on 2018-07-02]]
 ** Cluster Automation
 *** Description of task
     This task is about how to build complete infrastructure

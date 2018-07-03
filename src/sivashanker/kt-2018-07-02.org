@@ -1,0 +1,23 @@
+#+Title: Systems KT
+#+Author: Siva Shanker
+
+* AWS services
+  KT given by:  Siva Shanker
+  Attendees: Raghupathi, Anirudh and Sravanthi M.
+** VPC
+   Explained following topics
+   1. VPC creation
+   2. Subnets creation under VPC
+   3. Route tables
+   4. Internet Gateways 
+** IAM
+   Explained following topics
+   1. IAM groups
+   2. IAM users
+   3. IAM roles
+   4. Attaching IAM policies to the IAM groups and IAM
+      users.
+   5. Purpose of admin user, normal users and groups 
+** S3 Buckets
+   1. Creation of buckets
+   2. Uploading files to the buckets
