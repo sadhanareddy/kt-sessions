@@ -1,0 +1,12 @@
+#+Title: Systems KT
+#+Author: Siva Shanker
+
+* Systems Model
+
+  KT given by:  Siva Shanker
+  Attendees: Raghupathi, Aniruddha and Sravanthi M.
+
+   - Explained Systems-model's [[https://gitlab.com/vlead-systems/systems-model/blob/include-ads-role/src/bootstrapping.org][bootstrapping steps]]
+   - NAT rules in the router instance
+   - Internet connection to the private ec2 instances
+   - Hands on session on bootstrapping steps   ( Post Lunch)
