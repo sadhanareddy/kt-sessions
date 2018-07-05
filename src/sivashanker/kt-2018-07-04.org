@@ -1,0 +1,14 @@
+#+Title: Systems KT
+#+Author: Siva Shanker
+
+* Systems Model
+
+  KT given by:  Siva Shanker
+  Attendees: Raghupathi, Aniruddha and Sravanthi M.
+
+  - Details of Cluster Nodes ( Explanation of each cluster
+    node with the documentation ) ( Org files)
+  - Structure of Ansible playbooks to configure a cluster node
+  - Demo of running playbooks ( configure-servers.yaml and
+    install_clients_in_all_servers.yaml)
+
