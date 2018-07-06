@@ -1,0 +1,21 @@
+#+Title: Systems KT
+#+Author: Siva Shanker
+
+* Cluster automation
+  - KT given by Siva Shanker
+  - KT handed over to
+    + Raghupathi
+    + Sravanthi M
+    + Aniruddha Ravi
+  - Topics covered
+    + Explained how systems-model bootstrapping steps are
+      automated.
+    + Explained how overall cluster setup is automated
+    + Shown how the Anible playbooks are executing to setup
+      cluster or to configure cluster.
+    + Shown how to run cluster automation scripts
+      practically using cluster-automaton installation steps
+      updated at [[https://gitlab.com/vlead-systems/cluster-automation][cluster-automation]] documentation.
+
+   
+
