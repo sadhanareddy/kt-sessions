@@ -15,6 +15,12 @@
   documentation link is mentioned and updates as per the requirements
   will be made.
 * Tasks and Responsibilities
+** System Administration tasks
+*** Description of task
+    Systems administration tasks such as creation of vlabs mail ids,
+    LDAP, assigining private/public domain names.
+*** Documentation links
+    
 ** Systems model
 *** Description of task
     Systems model is a design model of VLEAD's hosting
