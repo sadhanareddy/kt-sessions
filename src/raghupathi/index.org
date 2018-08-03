@@ -22,7 +22,10 @@
 
 **** Documentation links
   - [[https://gitlab.com/vlead-systems/docs/blob/master/src/how-to/creation-of-email-account.org][creation of vlabs email accounts and mailing groups]] on Gitlab
-    
+  - [[https://gitlab.com/vlead-systems/docs/blob/master/src/how-to/ldap/index.org][creation of LDAP users]] on Gitlab    
+
+*** Hand over to
+    - Sravanthi M
 ** Systems model
 *** Description of task
     Systems model is a design model of VLEAD's hosting
@@ -49,7 +52,7 @@
     Discussions and Plans of optimizing the AWS bill.
 *** Documentation/Repository links
     [[https://gitlab.com/vlead-systems/reduce-aws-bill][reduce-aws-bill]]
-*** Handed over to
+*** Hand over to
     - Sravanthi M
 ** College Cloud
 *** Description of task
@@ -58,7 +61,7 @@
     - [[https://gitlab.com/vlead-systems/college-cloud][College Cloud]] on GitLab
     -
       [[https://github.com/openedx-vlead/college-cloud][College Cloud]] on GitHub. Old repository.
-*** Handed over to
+*** Hand over to
     - Sravanthi M
 ** Baadal
 *** Description of tasks.
@@ -66,18 +69,18 @@
 *** Documentation/Repository links
     - [[https://gitlab.com/vlead-systems/baadal][Baadal]]
 
-*** Handed over to
+*** Hand over to
     - Sravanthi M
 ** Ernet
    Ernet is our domain =vlabs.ac.in= provider. 
-*** Handed over to
+*** Hand over to
     - Sravanthi M
 ** Installing SSL certificates( Namecheap.com)
    - namecheap.com
 *** Documents
     [[https://gitlab.com/vlead-systems/docs/blob/master/src/how-to/renewal-ssl.org][Document link]] . Please check the references for more
     detailed documentation.
-*** Handed over to
+*** Hand over to
     - Sravanthi M
 ** Backup of AWS backups
 *** Description of task
@@ -87,7 +90,7 @@
     feedback,etc.
 *** Documentation/Repository link
     - [[https://gitlab.com/vlead-systems/docs/blob/master/src/backup-docs/backup-aws-rsnapshot.org][AWS backups on local server]]
-*** Handed over to
+*** Hand over to
     - Sravanthi M
 ** BASE3 and BASE2 machines
 *** Description of task
@@ -107,5 +110,5 @@
        6. ssh-tunnel.
 *** Documentations
     [[https://gitlab.com/vlead-systems/backup-config-files/tree/master/src/backup-config-files][Important containers and their backups]]
-*** Handed over to
+*** Hand over to
     - Sravanthi M
