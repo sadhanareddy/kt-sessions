@@ -19,7 +19,9 @@
 *** Description of task
     Systems administration tasks such as creation of vlabs mail ids,
     LDAP, assigining private/public domain names.
-*** Documentation links
+
+**** Documentation links
+  - [[https://gitlab.com/vlead-systems/docs/blob/master/src/how-to/creation-of-email-account.org][creation of vlabs email accounts and mailing groups]] on Gitlab
     
 ** Systems model
 *** Description of task
