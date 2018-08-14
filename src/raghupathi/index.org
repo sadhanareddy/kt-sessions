@@ -18,12 +18,13 @@
 ** System Administration tasks
 *** Description of task
     Systems administration tasks such as creation of vlabs mail ids,
-    LDAP, assigining private/public domain names.
+    LDAP and deployment of labs/services on staging/production
+    environment.
 
 **** Documentation links
   - [[https://gitlab.com/vlead-systems/docs/blob/master/src/how-to/creation-of-email-account.org][creation of vlabs email accounts and mailing groups]] on Gitlab
   - [[https://gitlab.com/vlead-systems/docs/blob/master/src/how-to/ldap/index.org][creation of LDAP users]] on Gitlab    
-
+  - [[https://gitlab.com/vlead-systems/docs/blob/master/src/how-to/steps-to-deploy-lab.org][steps-to-deploy-lab/service]] on Gitlab
 *** Hand over to
     - Sravanthi M
 ** Systems model
