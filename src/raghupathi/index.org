@@ -25,7 +25,7 @@
   - [[https://gitlab.com/vlead-systems/docs/blob/master/src/how-to/creation-of-email-account.org][creation of vlabs email accounts and mailing groups]] on Gitlab
   - [[https://gitlab.com/vlead-systems/docs/blob/master/src/how-to/ldap/index.org][creation of LDAP users]] on Gitlab    
   - [[https://gitlab.com/vlead-systems/docs/blob/master/src/how-to/steps-to-deploy-lab.org][steps-to-deploy-lab/service]] on Gitlab
-*** Hand over to
+*** Handed over to
     - Sravanthi M
 ** Systems model
 *** Description of task
@@ -53,35 +53,26 @@
     Discussions and Plans of optimizing the AWS bill.
 *** Documentation/Repository links
     [[https://gitlab.com/vlead-systems/reduce-aws-bill][reduce-aws-bill]]
-*** Hand over to
+*** Handed over to
     - Sravanthi M
 ** College Cloud
 *** Description of task
     Offline version of Virtual Labs.
 *** Documentation/Repository links
     - [[https://gitlab.com/vlead-systems/college-cloud][College Cloud]] on GitLab
-    -
-      [[https://github.com/openedx-vlead/college-cloud][College Cloud]] on GitHub. Old repository.
-*** Hand over to
-    - Sravanthi M
-** Baadal
-*** Description of tasks.
-    Setup VLEAD infrastructure for hosting vlabs on Baadal.
-*** Documentation/Repository links
-    - [[https://gitlab.com/vlead-systems/baadal][Baadal]]
-
-*** Hand over to
+    - [[https://github.com/openedx-vlead/college-cloud][College Cloud]] on GitHub. Old repository.
+*** Handed over to
     - Sravanthi M
 ** Ernet
    Ernet is our domain =vlabs.ac.in= provider. 
-*** Hand over to
+*** Handed over to
     - Sravanthi M
 ** Installing SSL certificates( Namecheap.com)
    - namecheap.com
 *** Documents
     [[https://gitlab.com/vlead-systems/docs/blob/master/src/how-to/renewal-ssl.org][Document link]] . Please check the references for more
     detailed documentation.
-*** Hand over to
+*** Handed over to
     - Sravanthi M
 ** Backup of AWS backups
 *** Description of task
@@ -91,17 +82,16 @@
     feedback,etc.
 *** Documentation/Repository link
     - [[https://gitlab.com/vlead-systems/docs/blob/master/src/backup-docs/backup-aws-rsnapshot.org][AWS backups on local server]]
-*** Hand over to
+*** Handed over to
     - Sravanthi M
-** BASE3 and BASE2 machines
+** BASE machines
 *** Description of task
     We have four base[1/2/3/4] machines on local
     environment.
     What is there in each base machine?
 
     1. Base1 is for  Staging environment of cluster
-    2. Base2 - has only one VM (KVM) that is created for
-       COEP for vlabs hosting.
+    2. Base2 - Medhamsh working
     3. Base3 - Has some important containers
        1. stpi-router 
        2. stpi-proxy
@@ -109,7 +99,9 @@
        4. ns2-pvt
        5. ldap
        6. ssh-tunnel.
+       7. http
+    4. Base4 is for testing environment of cluster
 *** Documentations
     [[https://gitlab.com/vlead-systems/backup-config-files/tree/master/src/backup-config-files][Important containers and their backups]]
-*** Hand over to
+*** Handed over to
     - Sravanthi M
